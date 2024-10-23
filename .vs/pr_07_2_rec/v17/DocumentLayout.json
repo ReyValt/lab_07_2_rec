@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B82F64-0168-4732-95AD-57DD0BD5CEBA}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62B82F64-0168-4732-95AD-57DD0BD5CEBA}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA28EDB-B451-4551-A19F-C140256E130A}|pr_07_2_rec\\pr_07_2_rec.vcxproj|C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\pr_07_2_rec\\pr_07_2_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA28EDB-B451-4551-A19F-C140256E130A}|pr_07_2_rec\\pr_07_2_rec.vcxproj|solutionrelative:pr_07_2_rec\\pr_07_2_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T22:37:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pr_07_2_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\pr_07_2_rec\\pr_07_2_rec.cpp",
+              "RelativeDocumentMoniker": "pr_07_2_rec\\pr_07_2_rec.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\pr_07_2_rec\\pr_07_2_rec\\pr_07_2_rec.cpp",
+              "RelativeToolTip": "pr_07_2_rec\\pr_07_2_rec.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T21:06:58.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
